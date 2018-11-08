@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hi, again");
         System.out.println("Create patch");
         System.out.println("One more line");
+        System.out.println("Test pull request");
     }
 }
